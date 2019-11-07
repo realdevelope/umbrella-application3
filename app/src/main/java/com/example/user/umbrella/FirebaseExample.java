@@ -28,6 +28,7 @@ public class FirebaseExample extends FirebaseMessagingService {
         }
     }
 
+
     private void sendNotification(RemoteMessage remoteMessage) {
 
         String title = remoteMessage.getData().get("title");
@@ -70,7 +71,7 @@ public class FirebaseExample extends FirebaseMessagingService {
                     new NotificationCompat.Builder(this, "")
                             .setSmallIcon(R.drawable.ic_launcher_background)
                             .setContentTitle(title)
-                            .setContentText(message)
+                             .setContentText(message)
                             .setAutoCancel(true)
                             .setDefaults(Notification.DEFAULT_SOUND | Notification.DEFAULT_VIBRATE);
 

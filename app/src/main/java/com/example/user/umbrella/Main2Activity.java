@@ -32,6 +32,7 @@ public class Main2Activity extends Activity {
                 );
 
                 //푸시알람 날리는 코드만 추가
+
         NotificationCompat.Builder mBuilder =
                 new NotificationCompat.Builder(Main2Activity.this)
                         .setSmallIcon(R.drawable.image0)
