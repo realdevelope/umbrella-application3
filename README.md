@@ -11,6 +11,9 @@
 3. ~~그외엔 딱히... ~
 
 ## 미리보기(첫화면)
-
+![KakaoTalk_20200205_132011818_02](https://user-images.githubusercontent.com/48710889/73810745-cd5d1300-481a-11ea-8d25-a5f060fec8d9.jpg)
+![KakaoTalk_20200205_132250874_01](https://user-images.githubusercontent.com/48710889/73810748-cdf5a980-481a-11ea-9605-5c6cc0e7a5b5.jpg)
+![KakaoTalk_20200205_132250874_02](https://user-images.githubusercontent.com/48710889/73810749-ce8e4000-481a-11ea-8f0c-185822317c08.jpg)
+![KakaoTalk_20200205_132011818_01](https://user-images.githubusercontent.com/48710889/73810750-ce8e4000-481a-11ea-89f5-021cbac3e946.jpg)
 
 ## 직접 확인해보세요
